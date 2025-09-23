@@ -4,7 +4,6 @@ Programming examples for the MNXB11 course
 ## Directory structure
 
 ```
-tjatte-pkf% tree .   
 .
 ├── code
 │   ├── bash
